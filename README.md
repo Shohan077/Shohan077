@@ -14,49 +14,8 @@ database-driven systems, and desktop & web-based management applications.
 🚀 Currently seeking **Entry-Level Software Engineer / Internship Opportunities**
 
 📍 Dhaka, Bangladesh  
-📫 Email: khandakarshohan77@gmail.com  
+📫 Email: khandakarshohan77@gmail.com 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shohan077&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-## 🌐 Connect With Me
-
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/khandakar-shohan-1929a8224" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
-</a>
-
-<a href="https://github.com/Shohan077" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="40" />
-</a>
-
-<a href="https://wa.me/8801309095830" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="30" width="40" />
-</a>
-
-<a href="https://www.facebook.com/shohan2817" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="40" />
-</a>
-
-<a href="https://www.instagram.com/khandakar_shohan" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="30" width="40" />
-</a>
-
-</p>
-
----
 
 ## 🛠️ Languages and Tools
 
@@ -87,8 +46,57 @@ database-driven systems, and desktop & web-based management applications.
 
 </p>
 
-## 🔥 Career Objective
 
-> To build scalable and efficient software systems while continuously improving my 
-> problem-solving and system design skills.
+## 🌐 Connect With Me
+
+<p align="left">
+  
+<a href="https://www.linkedin.com/in/khandakar-shohan-1929a8224" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/8801309095830" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" height="30" width="40" />
+</a>
+
+<a href="https://www.facebook.com/shohan2817" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" height="30" width="40" />
+</a>
+
+<a href="https://www.instagram.com/khandakar_shohan" target="blank">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733558.png" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan077&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shohan077&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shohan077&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shohan077&theme=tokyo-night&hide_border=true"/>
+</p>
+d system design skills.
 
