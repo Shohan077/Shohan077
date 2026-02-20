@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khandakar Shohan Sadik</h1>
-<h3 align="center">Computer Science & Engineering Student | Software Engineer</h3>
+<h3 align="center">Computer Science & Engineering Student | Software Engineer |  AI & Data Science Enthusiast</h3>
 
 ---
 
@@ -14,7 +14,6 @@ database-driven systems, and desktop & web-based management applications.
 🚀 Currently seeking **Entry-Level Software Engineer / Internship Opportunities**
 
 📍 Dhaka, Bangladesh  
-📫 Email: khandakarshohan77@gmail.com 
 
 
 ## 🛠️ Languages and Tools
