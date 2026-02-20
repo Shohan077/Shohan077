@@ -74,8 +74,8 @@ database-driven systems, and desktop & web-based management applications.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan077&layout=compact&theme=tokyonight&cache_seconds=86400" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shohan077&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
@@ -87,7 +87,13 @@ database-driven systems, and desktop & web-based management applications.
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shohan077&theme=tokyonight"/>
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Shohan077&theme=tokyonight"/>
+</p>
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 
