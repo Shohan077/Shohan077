@@ -2,10 +2,13 @@ name: Generate Snake
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"   # daily auto update (optional)
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
@@ -14,16 +17,14 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Shohan077
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: List dist folder (debug)
-        run: ls -la dist
-
-      - name: Publish to GitHub Pages
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
-          allow_empty_commit: true
-          allow_branch_creation: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
