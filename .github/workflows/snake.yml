@@ -7,13 +7,23 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Shohan077
-      - uses: crazy-max/ghaction-github-pages@v3
+
+      - name: List dist folder (debug)
+        run: ls -la dist
+
+      - name: Publish to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          allow_empty_commit: true
+          allow_branch_creation: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
