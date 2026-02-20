@@ -71,25 +71,31 @@ database-driven systems, and desktop & web-based management applications.
 
 ---
 
-
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shohan077&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://gh-stats-gen.vercel.app/api?username=Shohan077&theme=tokyonight" height="170"/>
+  <img src="https://gh-stats-gen.vercel.app/api/top-langs?username=Shohan077&theme=tokyonight&layout=compact" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shohan077&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Shohan077&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shohan077&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shohan077/Shohan077/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🐍 Contribution Snake
