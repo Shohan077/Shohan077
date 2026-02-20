@@ -40,7 +40,7 @@ database-driven systems, and desktop & web-based management applications.
 
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 
@@ -71,7 +71,7 @@ database-driven systems, and desktop & web-based management applications.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight" height="170"/>
@@ -84,12 +84,16 @@ database-driven systems, and desktop & web-based management applications.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy-eight.vercel.app/?username=Shohan077&theme=tokyonight"/>
 </p>
 
 
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shohan077/Shohan077/output/github-contribution-grid-snake.svg" />
+</p>
 
