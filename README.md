@@ -91,12 +91,12 @@ database-driven systems, and desktop & web-based management applications.
   <img src="https://github-profile-trophy.vercel.app/?username=Shohan077&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
----
-
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shohan077&theme=tokyo-night&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Shohan077/Shohan077/output/github-contribution-grid-snake.svg" />
 </p>
-d system design skills.
+
+---
+
 
