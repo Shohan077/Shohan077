@@ -70,18 +70,7 @@ database-driven systems, and desktop & web-based management applications.
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shohan077&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shohan077&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shohan077&theme=tokyonight" height="170"/>
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
